@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Mingtian\Dropbox\____Github\Introduce-Asynchronous-Time-Delay-into-Communications-\CPP\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Mingtian\Dropbox\____Github\Introduce-Asynchronous-Time-Delay-into-Communications-\CPP\cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{285A976A-9DCF-333D-BED4-C04F35965BFF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Mingtian\Dropbox\____Github\Introduce-Asynchronous-Time-Delay-into-Communications-\CPP\build\CMakeFiles\a0ea9491499b9f8500f59a83175b3c2a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{71571142-440B-3F98-AB06-D5BA17DB24AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
